@@ -15,7 +15,7 @@ Pitchfork covers Spectre v1, Spectre v1.1, and Spectre v4.
 
 - Clone this repo:
     ```bash
-    git clone https://github.com/cdisselkoen/pitchfork
+    git clone https://github.com/PLSysSec/pitchfork-angr pitchfork
     ```
 - Install the [pypy](https://pypy.org) JITting Python interpreter (highly recommended),
     rather than using the standard Python interpreter.
